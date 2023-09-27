@@ -28,6 +28,9 @@ public class Pessoa {
         this.enderecos = enderecos;
     }
 
+    public <E> Pessoa(long l, String joão, LocalDate of, ArrayList<E> es) {
+    }
+
     public Long getId() {
         return id;
     }
