@@ -7,7 +7,8 @@ Este projeto é uma API de gerenciamento de pessoas e seus endereços. Ele permi
 - Spring Boot
 - H2 Database
 
-- Configuração
+**Configuração**
+
 Clone o repositório:
 
 `git clone https://github.com/luckraw/gerenciamento-api.git`
